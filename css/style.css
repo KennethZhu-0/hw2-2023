@@ -9,7 +9,7 @@ body {
     font-family: Arial, Verdana; 
     background-color: #000000; 
     color: #ffffff; 
-    margin: 20px 20px 0; 
+    margin: 20px 20px 0 20px; 
 }   
   
 .introduction{
@@ -31,8 +31,7 @@ p {
 img {
     width: 250px; 
     display: block; 
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     border-width: 10px;
     border-color: #ffffff;
     border-style: dashed;
@@ -74,7 +73,7 @@ div{
 .yellow {
     background-color: #FFFF00; 
     text-align: right; 
-    margin: 0 0 0 50px; 
+    margin:0 0 0 50px; 
     border-width: 0 0 2px 5px;
     color: #707070
 }
